@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.27)
+cmake_minimum_required(VERSION 3.25)
 project(sw_battle_test)
 
 set(CMAKE_CXX_STANDARD 20)
